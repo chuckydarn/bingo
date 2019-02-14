@@ -70,6 +70,7 @@ $(".randomize-button").click(function() {
 });
 
 $(".called-link").click(function() {
+  $(".called-pairs").empty();
   for(let i = 0; i < calls.length; i++) {
     $(".called-pairs").append(`<div class="pair"><p class="called-letter">${calls[i].letter}</p><img class="called-img" src="img/${calls[i].image}"></div>`);
   }
