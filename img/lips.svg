@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>lips</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lips" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(39.000000, 147.000000)">
+            <path d="M29.65625,34.5172043 C38.6826539,67.3686452 91.386294,106.277344 161.5,106.277344 C227.527344,106.277344 284.317346,67.3686452 293.34375,34.5172043" id="Oval-20" stroke="#D0021B" stroke-width="8" fill="#F8B9B9"></path>
+            <path d="M30,0 C39.0264039,23.1959595 100.304688,52.9648438 161.84375,21 C227.265625,44.8085938 284.661096,23.1959595 293.6875,0" id="Oval-20-Copy" stroke="#D0021B" stroke-width="8" fill="#F8B9B9" transform="translate(161.843750, 17.482796) scale(1, -1) translate(-161.843750, -17.482796) "></path>
+            <path d="M30.5,33.5 C107.546875,33.5 150.99349,38.3841146 160.839844,48.1523438" id="Line-5" stroke="#D0021B" stroke-width="8" stroke-linecap="square"></path>
+            <path d="M162,35 C239.046875,35 282.49349,39.8841146 292.339844,49.6523438" id="Line-5-Copy" stroke="#D0021B" stroke-width="8" stroke-linecap="square" transform="translate(227.169922, 42.326172) scale(-1, 1) translate(-227.169922, -42.326172) "></path>
+            <path d="M293.5,33.5 L309,27" id="Line" stroke="#D0021B" stroke-width="8" stroke-linecap="square"></path>
+            <path d="M14.5,32.5 L30,26" id="Line-Copy" stroke="#D0021B" stroke-width="8" stroke-linecap="square" transform="translate(22.000000, 29.500000) scale(-1, 1) translate(-22.000000, -29.500000) "></path>
+            <path d="M4,16 C5.48821895,21.4726797 6.98821895,25.1393464 8.5,27 C10.011781,28.8606536 12.8451144,30.5273203 17,32" id="Line-18" stroke="#D0021B" stroke-width="8" stroke-linecap="square" transform="translate(10.500000, 24.000000) rotate(57.000000) translate(-10.500000, -24.000000) "></path>
+            <path d="M304.749518,17.808471 C306.237737,23.2811507 307.737737,26.9478174 309.249518,28.808471 C310.761299,30.6691246 313.594633,32.3357912 317.749518,33.808471" id="Line-18-Copy" stroke="#D0021B" stroke-width="8" stroke-linecap="square" transform="translate(311.249518, 25.808471) scale(-1, 1) rotate(57.000000) translate(-311.249518, -25.808471) "></path>
+            <ellipse id="Oval-21" fill="#FFFFFF" transform="translate(81.500000, 69.000000) rotate(-60.000000) translate(-81.500000, -69.000000) " cx="81.5" cy="69" rx="7.5" ry="17"></ellipse>
+        </g>
+    </g>
+</svg>

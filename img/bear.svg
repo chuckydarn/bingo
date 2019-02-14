@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>bear</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="bear" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(79.000000, 96.000000)">
+            <ellipse id="Oval" stroke="#6E3E10" stroke-width="8" fill="#DDAC88" transform="translate(78.500000, 36.000000) rotate(-30.000000) translate(-78.500000, -36.000000) " cx="78.5" cy="36" rx="20.5" ry="29"></ellipse>
+            <ellipse id="Oval-Copy" stroke="#6E3E10" stroke-width="8" fill="#DDAC88" transform="translate(205.253521, 36.364737) rotate(30.000000) translate(-205.253521, -36.364737) " cx="205.253521" cy="36.3647367" rx="20.5" ry="29"></ellipse>
+            <circle id="Oval-13" stroke="#6E3E10" stroke-width="8" fill="#DDAC88" cx="142" cy="113" r="96"></circle>
+            <ellipse id="Oval-14" fill="#FFFFFF" cx="142.5" cy="151.5" rx="46.5" ry="38.5"></ellipse>
+            <ellipse id="Oval-2" fill="#6E3E10" cx="142" cy="143" rx="10" ry="9"></ellipse>
+            <ellipse id="Oval-2-Copy" fill="#6E3E10" cx="108" cy="81" rx="10" ry="9"></ellipse>
+            <ellipse id="Oval-2-Copy-2" fill="#6E3E10" cx="179" cy="81" rx="10" ry="9"></ellipse>
+            <path d="M158,139 C149.163444,139 142,146.611159 142,156 C142,165.388841 149.163444,173 158,173 C166.836556,173 174,165.388841 174,156" id="Oval-15" stroke="#6E3E10" stroke-width="4" transform="translate(158.000000, 156.000000) rotate(-26.000000) translate(-158.000000, -156.000000) "></path>
+            <path d="M126.339552,141.265538 C117.502996,141.265538 110.339552,148.876697 110.339552,158.265538 C110.339552,167.654378 117.502996,175.265538 126.339552,175.265538 C135.176108,175.265538 142.339552,167.654378 142.339552,158.265538" id="Oval-15-Copy" stroke="#6E3E10" stroke-width="4" transform="translate(126.339552, 158.265538) rotate(-53.000000) translate(-126.339552, -158.265538) "></path>
+            <path d="M37.1404562,68.2558764 L40.894103,64.5022295 C45.5637424,59.8325902 53.1347237,59.8325902 57.8043631,64.5022295 C62.4740025,69.1718689 62.4740025,76.7428502 57.8043631,81.4124896 L37.2425329,101.97432 L37.1661364,101.897923 L37.0640597,102 L16.5022295,81.4381698 C11.8325902,76.7685304 11.8325902,69.1975491 16.5022295,64.5279098 C21.1718689,59.8582704 28.7428502,59.8582704 33.4124896,64.5279098 L37.1404562,68.2558764 Z" id="Combined-Shape-Copy-6" stroke="#D0021B" stroke-width="8" fill="#D0021B"></path>
+            <path d="M18.3402454,116.37189 L21.192006,113.520129 C24.7396744,109.972461 30.4915812,109.972461 34.0392495,113.520129 C37.5869178,117.067798 37.5869178,122.819705 34.0392495,126.367373 L18.4177962,141.988826 L18.3597554,141.930785 L18.2822046,142.008336 L2.66075124,126.386883 C-0.886917081,122.839215 -0.886917081,117.087308 2.66075124,113.539639 C6.20841957,109.991971 11.9603264,109.991971 15.5079947,113.539639 L18.3402454,116.37189 Z" id="Combined-Shape-Copy-7" stroke="#D0021B" stroke-width="8" fill="#D0021B"></path>
+        </g>
+    </g>
+</svg>

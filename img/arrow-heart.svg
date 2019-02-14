@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="arrow-heart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(48.000000, 83.000000)" stroke-width="8">
+            <path d="M262.5,35.5 L297.5,7.5" id="Line-14" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M161.60113,54.34158 L178.332241,37.6104695 C199.1462,16.7965102 232.892296,16.7965102 253.706255,37.6104695 C274.520214,58.4244288 274.520214,92.1705245 253.706255,112.984484 L162.056116,204.634623 L161.715594,204.294101 L161.260608,204.749087 L69.6104695,113.098948 C48.7965102,92.2849889 48.7965102,58.5388932 69.6104695,37.7249338 C90.4244288,16.9109745 124.170525,16.9109745 144.984484,37.7249338 L161.60113,54.34158 Z" id="Combined-Shape-Copy-6" stroke="#D0021B" fill="#F8B9B9"></path>
+            <path d="M35.5,195.5 L167,104" id="Line-12" stroke="#979797" stroke-linecap="square"></path>
+            <g id="Group" transform="translate(0.000000, 195.000000)" stroke="#979797" stroke-linecap="square">
+                <path d="M35.5,1.5 L35.5,38.5" id="Line"></path>
+                <path d="M33.5,1.5 L0,1.5" id="Line-Copy-3"></path>
+            </g>
+            <g id="Group-Copy-3" transform="translate(268.000000, 0.000000)" stroke="#979797" stroke-linecap="square">
+                <path d="M35.5,1.5 L35.5,38.5" id="Line"></path>
+                <path d="M33.5,1.5 L0,1.5" id="Line-Copy-3"></path>
+            </g>
+            <g id="Group-Copy" transform="translate(17.000000, 180.000000)" stroke="#979797" stroke-linecap="square">
+                <path d="M35.5,1.5 L35.5,38.5" id="Line"></path>
+                <path d="M33.5,1.5 L0,1.5" id="Line-Copy-3"></path>
+            </g>
+            <g id="Group-Copy-2" transform="translate(35.000000, 167.000000)" stroke="#979797" stroke-linecap="square">
+                <path d="M35.5,1.5 L35.5,38.5" id="Line"></path>
+                <path d="M33.5,1.5 L0,1.5" id="Line-Copy-3"></path>
+            </g>
+            <path d="M155.5,92.5 C165.125,97.9375 171.125,102.4375 173.5,106 C175.875,109.5625 175.875,114.0625 173.5,119.5" id="Line-13" stroke="#979797" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

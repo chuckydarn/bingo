@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>envelope</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="envelope" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2" stroke="#979797" stroke-width="8" fill="#D8E0EB" x="42" y="92" width="327" height="186"></rect>
+        <path d="M43,96 L367,276" id="Line" stroke="#979797" stroke-width="8" stroke-linecap="square"></path>
+        <path d="M43,93 L366,276" id="Line-Copy" stroke="#979797" stroke-width="8" stroke-linecap="square" transform="translate(204.500000, 184.500000) scale(1, -1) translate(-204.500000, -184.500000) "></path>
+        <path d="M206.556975,171.608462 C207.230063,169.609156 208.363026,167.730592 209.955861,166.137756 C215.472869,160.620748 224.417706,160.620748 229.934714,166.137756 C235.451722,171.654764 235.451722,180.599601 229.934714,186.116609 C228.341878,187.709445 226.463313,188.842407 224.464007,189.515496 L225.409658,190.461146 L205.430805,210.439999 L181.137756,186.146949 C175.620748,180.629941 175.620748,171.685104 181.137756,166.168096 C186.654764,160.651088 195.599601,160.651088 201.116609,166.168096 L206.556975,171.608462 Z" id="Combined-Shape" stroke="#D0021B" stroke-width="8" fill="#D0021B"></path>
+    </g>
+</svg>

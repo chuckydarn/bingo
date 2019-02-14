@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>card</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(124.000000, 76.000000)" stroke-width="8">
+            <path d="M105.5,1.5 L105.5,43.5" id="Line-11" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M5.5,40.5 L104.5,0.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <rect id="Rectangle-9" stroke="#979797" fill="#C2E99A" x="4" y="42" width="145" height="203"></rect>
+            <path d="M79.9867098,129.510234 L83.8719422,125.625002 C88.7052777,120.791666 96.5416629,120.791666 101.374998,125.625002 C106.208334,130.458337 106.208334,138.294722 101.374998,143.128058 L80.0923648,164.410691 L80.0132902,164.331617 L79.9076352,164.437272 L58.6250016,143.154638 C53.7916661,138.321303 53.7916661,130.484918 58.6250016,125.651582 C63.4583371,120.818247 71.2947223,120.818247 76.1280578,125.651582 L79.9867098,129.510234 Z" id="Combined-Shape-Copy-5" stroke="#D0021B" fill="#D0021B"></path>
+        </g>
+    </g>
+</svg>

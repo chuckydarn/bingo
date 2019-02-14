@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>cherries</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="cherries" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-6" fill="#D0021B" cx="145" cy="279" r="51"></circle>
+        <circle id="Oval-6-Copy" fill="#D0021B" cx="256" cy="243.614775" r="51"></circle>
+        <path d="M163,243.614775 C173.229167,217.323598 178.34375,196.990265 178.34375,182.614775 C178.34375,168.239285 173.229167,147.905951 163,121.614775" id="Line" stroke="#C2E99A" stroke-width="8" stroke-linecap="square"></path>
+        <path d="M198.420195,223.294454 C201.906541,210.786642 204.463833,201.789406 206.09207,196.302746 C209.848593,183.644413 213.763945,172.720382 213.763945,164.294454 C213.763945,150.390291 208.649361,130.723625 198.420195,105.294454" id="Line-Copy" stroke="#C2E99A" stroke-width="8" stroke-linecap="square" transform="translate(206.092070, 164.294454) rotate(-39.000000) translate(-206.092070, -164.294454) "></path>
+        <ellipse id="Oval-7" fill="#C2E99A" cx="204.5" cy="121.614775" rx="42.5" ry="19"></ellipse>
+        <ellipse id="Oval-7-Copy" fill="#C2E99A" transform="translate(188.190437, 89.385225) rotate(-46.000000) translate(-188.190437, -89.385225) " cx="188.190437" cy="89.3852253" rx="42.5" ry="19"></ellipse>
+        <path d="M236.377898,205.23017 C239.76071,210.338677 241.452116,214.338677 241.452116,217.23017 C241.452116,220.121663 239.76071,224.121663 236.377898,229.23017" id="Line-7" stroke="#979797" stroke-width="4" stroke-linecap="square" transform="translate(238.915007, 217.230170) rotate(42.000000) translate(-238.915007, -217.230170) "></path>
+        <path d="M157.635116,233.920477 C161.017928,239.028984 162.709334,243.028984 162.709334,245.920477 C162.709334,248.81197 161.017928,252.81197 157.635116,257.920477" id="Line-7-Copy" stroke="#979797" stroke-width="4" stroke-linecap="square" transform="translate(160.172225, 245.920477) rotate(109.000000) translate(-160.172225, -245.920477) "></path>
+        <ellipse id="Oval-8" fill="#FFFFFF" transform="translate(270.813579, 207.381438) rotate(-64.000000) translate(-270.813579, -207.381438) " cx="270.813579" cy="207.381438" rx="5.88235294" ry="12.5"></ellipse>
+        <ellipse id="Oval-8-Copy" fill="#FFFFFF" transform="translate(182.136605, 266.408141) rotate(-22.000000) translate(-182.136605, -266.408141) " cx="182.136605" cy="266.408141" rx="5.88235294" ry="12.5"></ellipse>
+    </g>
+</svg>

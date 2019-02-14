@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>cupcake</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="cupcake" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(87.000000, 90.000000)">
+            <ellipse id="Oval-12" stroke="#D0021B" stroke-width="8" fill="#F8B9B9" cx="113" cy="69" rx="109" ry="57"></ellipse>
+            <path d="M4.40470825,75 L18.0152897,216 L208.98471,216 L222.595292,75 L4.40470825,75 Z" id="Rectangle" stroke="#979797" stroke-width="8" fill="#C2E99A"></path>
+            <path d="M113.023978,6.01859006 L116.137546,2.90502246 C120.010909,-0.968340821 126.290872,-0.968340821 130.164235,2.90502246 C134.037598,6.77838575 134.037598,13.0583484 130.164235,16.9317117 L113.108649,33.9872982 L113.045279,33.923929 L112.960609,34.0085994 L95.9050225,16.9530129 C92.0316592,13.0796496 92.0316592,6.79968693 95.9050225,2.92632364 C99.7783857,-0.947039641 106.058348,-0.947039641 109.931712,2.92632364 L113.023978,6.01859006 Z" id="Combined-Shape-Copy-5" stroke="#D0021B" stroke-width="8" fill="#D0021B"></path>
+            <path d="M114,74 L114,215" id="Line-15-Copy-4" stroke="#979797" stroke-width="4" stroke-linecap="square"></path>
+            <path d="M152,75 L146,214" id="Line-15-Copy-5" stroke="#979797" stroke-width="4" stroke-linecap="square"></path>
+            <path d="M190,75 L183,212" id="Line-15-Copy-6" stroke="#979797" stroke-width="4" stroke-linecap="square"></path>
+            <path d="M37,73 L45,213" id="Line-15-Copy-7" stroke="#979797" stroke-width="4" stroke-linecap="square"></path>
+            <path d="M76,74 L81,216" id="Line-15-Copy-8" stroke="#979797" stroke-width="4" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
